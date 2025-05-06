@@ -1,0 +1,27 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LyubovGarashchenko/Node.js.git"
+  },
+  "author": "Lyubov Garashchenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LyubovGarashchenko/Node.js/issues"
+  },
+  "homepage": "https://github.com/LyubovGarashchenko/Node.js#readme",
+  "description": "",
+  "devDependencies": {
+    "@eslint/js": "^9.25.1",
+    "eslint": "^9.25.1",
+    "eslint-config-prettier": "^10.1.2",
+    "eslint-plugin-import": "^2.31.0",
+    "eslint-plugin-prettier": "^5.2.6",
+    "prettier": "^3.5.3"
+  }
+}
